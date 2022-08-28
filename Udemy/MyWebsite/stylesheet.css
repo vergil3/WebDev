@@ -1,0 +1,25 @@
+#html, header{
+    clear: both;
+    position: relative;
+    background-color: bisque;
+    height: 60px;
+    margin-bottom: auto;
+}
+
+#html, body{
+    background-color: beige;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+#body_head{
+
+}
+
+#html, footer {
+    clear: both;
+    position: relative;
+    background-color: bisque;
+    height: 200px;
+    margin-top: auto;
+}
